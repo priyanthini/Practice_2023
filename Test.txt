@@ -2,3 +2,4 @@ Test text document.
 Editing via GitHub website.
 
 I want to write to this repository.
+New edit.
